@@ -9,6 +9,7 @@
 * JavaScript 기반의 **Node.Js**와 **Typescript**에 관심이 있고 주로 이용하여 개발하고 있어요
 * **Python**과 **Tensorflow** 를 이용한 데이터 사이언스와 인공지능에도 관심이 있어요
 * 웹 개발을 주로 하고있어 **Vue.js**와 **React.js**를 둘다 자유롭게 사용할수 있어요
+* 그리고 **Express**를 이용한 웹서버 구축도 많이 해봤어요
 * 풀스택 개발자지만 프론트앤드보다는 백앤드를 좋아해요
 * **mysql(mariadb)**, **nosql(mongodb)** 그리고 메모리db인 **redis**까지 각종 데이터베이스 사용 경험이 있어요
 
