@@ -15,4 +15,6 @@
 
 #### 소요카는 모든종류의 차별과 혐오를 지양합니다 💕
 
- 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/soy0ka"/>
+</a>
