@@ -45,7 +45,7 @@
 ### Database 
 [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=mariadb,postgres,mongodb,redis,prisma)](https://skillicons.dev)
 
-## Native
+### Native
 [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=reactnative,expo,electron)](https://skillicons.dev)
 
 
