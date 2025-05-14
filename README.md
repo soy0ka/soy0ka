@@ -26,7 +26,6 @@
 ---
 
 ### 💻 My Tech Stacks
----
 ### Language
 [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,ts)](https://skillicons.dev)
 
