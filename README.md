@@ -26,45 +26,30 @@
 ---
 
 ### 💻 My Tech Stacks
-<table>
-  <tr>
-    <td align="center">
-      <strong>🧠 Languages</strong><br>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=js,ts" />
-    </td>
-    <td align="center">
-      <strong>🔍 Familiar With</strong><br>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,java,python" />
-    </td>
-    <td align="center" rowspan="3">
-      <a href="https://github.com/devxb/gitanimals">
-        <img src="https://render.gitanimals.org/farms/soy0ka" width="100%" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <strong>🖼️ Frontend</strong><br>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=react,vue,nextjs,tailwindcss" />
-    </td>
-    <td align="center">
-      <strong>🔧 Backend</strong><br>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,express,discordjs" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <strong>🗄️ Database</strong><br>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=mariadb,postgres,mongodb,redis,prisma" />
-    </td>
-    <td align="center">
-      <strong>📱 Native / Desktop</strong><br>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=reactnative,expo,electron" />
-    </td>
-  </tr>
-</table>
+---
+### Language
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,ts)](https://skillicons.dev)
+
+### Familiar With
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,java,python)](https://skillicons.dev)
 
 ---
+
+### Frontend
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=react,vue,nextjs,tailwindcss)](https://skillicons.dev)
+
+### Backend
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=express,nodejs,discordjs)](https://skillicons.dev)
+
+---
+
+### Database 
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=mariadb,postgres,mongodb,redis,prisma)](https://skillicons.dev)
+
+## Native
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=reactnative,expo,electron)](https://skillicons.dev)
+
+
 
 #### 소요카는 모든종류의 차별과 혐오를 지양합니다 💕
 
