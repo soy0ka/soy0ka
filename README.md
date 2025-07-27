@@ -17,8 +17,7 @@
 
 #### 소요카는 모든종류의 차별과 혐오를 지양합니다 💕
 
-![Contribution](https://github-readme-activity-graph.vercel.app/graph?username=soy0ka&bg_color=ffffff&color=3366ff&line=3366ff&point=3366ff&area=true&hide_border=true)
-
+<img src="http://mazandi.herokuapp.com/api?handle=yurihana&theme=warm"/>
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/soy0ka"/>
 </a>
